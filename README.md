@@ -25,12 +25,12 @@ Neural networks achieve better performance when properly tuned
 - PyTorch  
 
 ## Project Structure
-`regression_modeling.ipynb` – regression analysis and modeling 
+- `regression_modeling.ipynb` – regression analysis and modeling 
 
-`classification_models.ipynb` – classical classification models 
+- `classification_models.ipynb` – classical classification models 
 
-`neural_network_classification_pytorch.ipynb` – neural network classification 
+- `neural_network_classification_pytorch.ipynb` – neural network classification 
 
-`neural_network_regression_pytorch.ipynb` – neural network regression 
+- `neural_network_regression_pytorch.ipynb` – neural network regression 
 
 ML-Prediction and Classification Models.pdf – Results, graphs, and conclusions
