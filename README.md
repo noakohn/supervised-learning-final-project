@@ -33,4 +33,4 @@ PyTorch
 
 `neural_network_regression_pytorch.ipynb` – neural network regression 
 
-final_report.pdf – project report
+ML-Prediction and Classification Models.pdf – Results, graphs, and conclusions
